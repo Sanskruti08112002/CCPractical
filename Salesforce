@@ -1,0 +1,8 @@
+public class Stud {
+    public static void main(){
+    system.debug('Hello');
+    }
+
+}
+
+//While debugging --> Stud.main();
